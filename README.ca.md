@@ -1,47 +1,64 @@
 # Enrique “Kike” Reasco Marines 👋
 
-**Enginyer de Sistemes · Consultor en Transformació Digital i IA · Constructor de Productes**
+**Enginyer de Sistemes · Consultor en Transformació Digital i IA Aplicada · Fundador i Constructor de Productes**
 
 🌐 **Idiomes:** [English](README.md) · [Español](README.es.md) · Català
 
-Dissenyo i construeixo solucions tecnològiques pràctiques per a empreses reals, combinant arquitectura de programari, intel·ligència artificial, automatització, sistemes empresarials, dades i productes digitals lleugers.
+Soc enginyer de sistemes, consultor tecnològic i emprenedor, enfocat a convertir problemes empresarials en solucions digitals pràctiques i sostenibles.
 
-La meva feina se centra a convertir problemes operatius en sistemes útils: des d’ERP i automatització de processos fins a fluxos assistits per IA, aplicacions offline-first, plataformes de traçabilitat i eines d’engagement empresarial.
+Treballo principalment amb pimes i empreses en creixement, combinant comprensió de processos, sistemes empresarials, intel·ligència artificial aplicada, automatització, dades i enginyeria de productes digitals lleugers. El meu enfocament és pragmàtic: primer entendre l’operació, després dissenyar l’arquitectura adequada i finalment construir només allò que genera valor mesurable.
 
-## 🚀 En què treballo
+## 🎯 Què faig
 
-- Automatització amb IA i fluxos assistits per agents
-- Transformació digital per a pimes i empreses en creixement
-- ERP, CRM i sistemes empresarials
-- Aplicacions web lleugeres i productes digitals
-- Analítica de dades i quadres de comandament operatius
-- Arquitectures offline-first i edge computing
-- Experiments d’IoT i traçabilitat
-- Avaluació i implementació de solucions open source
-- Sistemes de coneixement i operació assistida per IA
+### Transformació digital i sistemes empresarials
 
-## 🧩 Ecosistema
+Ajudo les organitzacions a millorar la seva operació mitjançant redisseny de processos, implementació d’ERP/CRM, integració de sistemes, quadres de comandament i fulls de ruta pràctics de transformació digital.
+
+### IA aplicada i automatització
+
+Dissenyo fluxos assistits per IA, processos habilitats per agents, sistemes de coneixement i automatitzacions empresarials que redueixen la feina manual i milloren la presa de decisions sense substituir la governança, les proves ni el criteri humà.
+
+### Enginyeria de producte
+
+Dissenyo i construeixo productes digitals lleugers, plataformes white-label, sistemes offline-first i solucions empresarials reutilitzables, combinant desenvolupament a mida amb tecnologies open source madures quan té sentit.
+
+## 🧩 Ecosistema empresarial
 
 ### Digital Consulting Plus
-Consultoria tecnològica i solucions digitals enfocades en una transformació empresarial pràctica: IA i automatització, ERP/CRM, programari a mida, integracions, analítica, infraestructura cloud i plataformes digitals.
+Consultoria tecnològica i implementació enfocada en transformació digital, IA i automatització, ERP/CRM, programari a mida, integracions, analítica, infraestructura cloud i plataformes digitals.
 
 ### FalconCDT
 Iniciatives de producte digital i enginyeria de programari enfocades en aplicacions lleugeres, plataformes empresarials reutilitzables, solucions white-label i sistemes d’engagement B2B.
 
 ### Plus Smarty
-Iniciatives de contingut, aprenentatge i IA aplicada enfocades en transformació digital, educació tecnològica i fluxos de treball intel·ligents.
+Iniciatives de contingut, aprenentatge i IA aplicada enfocades en transformació digital, educació tecnològica, podcasting i fluxos de treball intel·ligents.
 
 ### SipDolce
-Ecosistema empresarial basat en el cafè que combina cafè d’especialitat, experiències corporatives, traçabilitat, experimentació i tecnologia.
+Ecosistema CoffeeTech que combina cafè d’especialitat, regals i experiències corporatives, experimentació, traçabilitat i tecnologia.
 
-## 🔭 Focus actual
+## 🔭 Línies actuals de producte
 
-- **Normia** — compliment operatiu, processos de seguretat alimentària i gestió de qualitat
+### Operacions empresarials
+- **Normia** — compliment operatiu, processos de seguretat alimentària, gestió de qualitat i accions correctives
 - **MicroPOS** — arquitectura POS lleugera per a petits negocis i entorns amb baixa connectivitat
-- **FalconCDT Engagement Platform** — plataforma B2B white-label d’engagement i pronòstics
-- **Rewards Platform** — plataforma independent de fidelització i recompenses
-- **SipDolce Trace** — arquitectura de traçabilitat del cafè i confiança digital
-- **KIKE_OS** — sistema operatiu personal i empresarial de coneixement per al treball assistit per IA
+
+### Engagement i fidelització
+- **FalconCDT Engagement Platform** — plataforma B2B white-label d’engagement, pronòstics, rànquings i notificacions
+- **Rewards Platform** — plataforma independent de fidelització i recompenses per a petits negocis
+
+### Traçabilitat i confiança
+- **SipDolce Trace** — traçabilitat del cafè, registres basats en esdeveniments i arquitectura de confiança digital
+
+### IA i sistemes de coneixement
+- **KIKE_OS** — sistema operatiu personal i empresarial de coneixement que combina context estructurat, GitHub, eines d’IA i fluxos d’automatització
+
+## 🧪 Treball seleccionat
+
+- **Plataforma d’engagement B2B:** desplegaments white-label reals per a jocs de pronòstics, rànquings, notificacions i campanyes de marca
+- **Operacions de coneixement assistides per IA:** context estructurat, fluxos de revisió i patrons d’automatització per treballar amb múltiples eines d’IA sense perdre memòria operativa
+- **Sistemes empresarials offline-first:** arquitectura i disseny de producte per a eines lleugeres que funcionen amb connectivitat inestable o limitada
+- **Traçabilitat del cafè:** exploració de captura IoT, traçabilitat de lots i esdeveniments, i capes de confiança digital per a cadenes de valor del cafè
+- **Implementació de sistemes empresarials:** ERP/CRM, automatització, quadres de comandament i integracions orientades a millorar l’operació real
 
 ## 🧠 Com treballo
 
@@ -63,9 +80,9 @@ Validació en el món real
 Producte o servei reutilitzable
 ```
 
-Utilitzo la IA com a accelerador d’enginyeria, no com a substitut de l’arquitectura, les proves, la governança o el criteri humà.
+**La IA és un accelerador d’enginyeria, no un substitut de l’arquitectura, les proves, la governança ni la responsabilitat.**
 
-## 🛠 Interessos tecnològics
+## 🛠 Stack i eines
 
 **Sistemes empresarials:** Odoo · Dolibarr · ERPNext · CRM · BPM  
 **IA i automatització:** LLMs · Agents d’IA · n8n · RAG · Ollama · OpenAI · Claude · Gemini  
@@ -73,17 +90,19 @@ Utilitzo la IA com a accelerador d’enginyeria, no com a substitut de l’arqui
 **Infraestructura:** Google Cloud · Docker · Caddy · Linux · GitHub Actions  
 **IoT i edge:** Raspberry Pi · ESP32 · MQTT · InfluxDB · Grafana
 
-## 🌎 Perspectiva empresarial
+## 🌎 Perspectiva
 
-Treballo a la intersecció entre tecnologia, operacions empresarials, intel·ligència artificial, open source i desenvolupament de producte.
+Treballo a la intersecció entre **tecnologia, operacions empresarials, intel·ligència artificial, open source i desenvolupament de producte**, amb experiència donant suport a projectes i clients a Colòmbia, els Estats Units i Espanya.
 
-El meu enfocament és simple: **la tecnologia ha de reduir fricció, crear claredat operativa i generar valor empresarial mesurable.**
+El meu enfocament és simple:
+
+> **La tecnologia ha de reduir fricció, crear claredat operativa i generar valor empresarial mesurable.**
+
+## ☕ Més enllà del codi
+
+També soc podcaster, creador de contingut i emprenedor del món del cafè. M’interessa especialment la intersecció entre tecnologia, aprenentatge, transformació empresarial i innovació al voltant del cafè.
 
 ## 📫 Contacte
 
-- Digital Consulting Plus
-- FalconCDT
-- Plus Smarty
-- SipDolce
-
+**Digital Consulting Plus**  
 📧 ereasco@digitalconsultingplus.com
