@@ -1,47 +1,64 @@
 # Enrique “Kike” Reasco Marines 👋
 
-**Systems Engineer · Digital Transformation & AI Consultant · Product Builder**
+**Systems Engineer · Digital Transformation & Applied AI Consultant · Founder & Product Builder**
 
 🌐 **Languages:** English · [Español](README.es.md) · [Català](README.ca.md)
 
-I design and build practical technology solutions for real businesses, combining software architecture, artificial intelligence, automation, enterprise systems, data and lightweight digital products.
+I am a systems engineer, technology consultant and entrepreneur focused on turning business problems into practical, maintainable digital solutions.
 
-My work focuses on turning operational problems into usable systems: from ERP and process automation to AI-assisted workflows, offline-first applications, traceability platforms and business engagement tools.
+I work mainly with SMEs and growing companies, combining business process understanding, enterprise systems, applied AI, automation, data and lightweight product engineering. My approach is pragmatic: understand the operation first, design the right architecture second, and then build only what creates measurable value.
 
-## 🚀 What I work on
+## 🎯 What I do
 
-- AI automation and agent-assisted workflows
-- Digital transformation for SMEs and growing companies
-- ERP, CRM and business systems
-- Lightweight web applications and digital products
-- Data analytics and operational dashboards
-- Offline-first and edge computing architectures
-- IoT and traceability experiments
-- Open-source solution assessment and implementation
-- Knowledge systems and AI-enabled operating workflows
+### Digital transformation & business systems
 
-## 🧩 Ecosystem
+I help organizations improve operations through process redesign, ERP/CRM implementation, systems integration, dashboards and practical digital transformation roadmaps.
+
+### Applied AI & automation
+
+I design AI-assisted workflows, agent-enabled processes, knowledge systems and business automations that reduce manual work and improve decision-making without replacing governance, testing or human judgment.
+
+### Product engineering
+
+I design and build lightweight digital products, white-label platforms, offline-first systems and reusable business solutions, often combining custom development with mature open-source technologies.
+
+## 🧩 Business ecosystem
 
 ### Digital Consulting Plus
-Technology consulting and digital solutions focused on practical business transformation: AI and automation, ERP/CRM, custom software, integrations, analytics, cloud infrastructure and digital platforms.
+Technology consulting and implementation focused on digital transformation, AI and automation, ERP/CRM, custom software, integrations, analytics, cloud infrastructure and digital platforms.
 
 ### FalconCDT
 Digital product and software engineering initiatives focused on lightweight applications, reusable business platforms, white-label solutions and B2B engagement systems.
 
 ### Plus Smarty
-Content, learning and applied-AI initiatives focused on digital transformation, technology education and intelligent workflows.
+Content, learning and applied-AI initiatives focused on digital transformation, technology education, podcasting and intelligent workflows.
 
 ### SipDolce
-A coffee-based business ecosystem combining specialty coffee, corporate experiences, traceability, experimentation and technology.
+A CoffeeTech business ecosystem combining specialty coffee, corporate gifts and experiences, experimentation, traceability and technology.
 
-## 🔭 Current focus
+## 🔭 Current product tracks
 
-- **Normia** — operational compliance, food-safety processes and quality management
+### Business operations
+- **Normia** — operational compliance, food-safety processes, quality management and corrective-action workflows
 - **MicroPOS** — lightweight POS architecture for small businesses and low-connectivity environments
-- **FalconCDT Engagement Platform** — white-label B2B engagement and prediction platform
-- **Rewards Platform** — independent loyalty and customer rewards platform
-- **SipDolce Trace** — coffee traceability and digital trust architecture
-- **KIKE_OS** — personal and business knowledge operating system for AI-assisted work
+
+### Engagement & loyalty
+- **FalconCDT Engagement Platform** — white-label B2B engagement, prediction, ranking and notification platform
+- **Rewards Platform** — independent loyalty and customer rewards platform for small businesses
+
+### Traceability & trust
+- **SipDolce Trace** — coffee traceability, event-based records and digital trust architecture
+
+### AI & knowledge systems
+- **KIKE_OS** — personal and business knowledge operating system combining structured context, GitHub, AI tools and automation workflows
+
+## 🧪 Selected work
+
+- **B2B engagement platform:** real-world white-label deployments for prediction games, rankings, notifications and branded campaigns
+- **AI-assisted knowledge operations:** structured context, review workflows and automation patterns for working across multiple AI tools without losing operational memory
+- **Offline-first business systems:** architecture and product design for lightweight tools operating under unreliable or limited connectivity
+- **Coffee traceability:** exploration of IoT data capture, lot/event traceability and digital trust layers for coffee value chains
+- **Business systems delivery:** ERP/CRM, automation, dashboards and integrations for practical operational improvement
 
 ## 🧠 How I work
 
@@ -63,9 +80,9 @@ Real-world validation
 Reusable product or service
 ```
 
-I use AI as an engineering accelerator, not as a substitute for architecture, testing, governance or human judgment.
+**AI is an engineering accelerator, not a substitute for architecture, testing, governance or accountability.**
 
-## 🛠 Technology interests
+## 🛠 Technology toolkit
 
 **Business systems:** Odoo · Dolibarr · ERPNext · CRM · BPM  
 **AI & automation:** LLMs · AI Agents · n8n · RAG · Ollama · OpenAI · Claude · Gemini  
@@ -73,17 +90,19 @@ I use AI as an engineering accelerator, not as a substitute for architecture, te
 **Infrastructure:** Google Cloud · Docker · Caddy · Linux · GitHub Actions  
 **IoT & edge:** Raspberry Pi · ESP32 · MQTT · InfluxDB · Grafana
 
-## 🌎 Business perspective
+## 🌎 Perspective
 
-I work at the intersection of technology, business operations, artificial intelligence, open source and product development.
+I work at the intersection of **technology, business operations, artificial intelligence, open source and product development**, with experience supporting projects and clients across Colombia, the United States and Spain.
 
-My focus is simple: **technology should reduce friction, create operational clarity and generate measurable business value.**
+My focus is simple:
+
+> **Technology should reduce friction, create operational clarity and generate measurable business value.**
+
+## ☕ Beyond code
+
+I am also a podcaster, content creator and coffee entrepreneur. I am especially interested in the intersection between technology, learning, business transformation and coffee innovation.
 
 ## 📫 Contact
 
-- Digital Consulting Plus
-- FalconCDT
-- Plus Smarty
-- SipDolce
-
+**Digital Consulting Plus**  
 📧 ereasco@digitalconsultingplus.com
