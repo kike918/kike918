@@ -1,108 +1,121 @@
-# Enrique “Kike” Reasco Marines 👋
+# Enrique “Kike” Reasco Marines
 
-**Enginyer de Sistemes · Consultor en Transformació Digital i IA Aplicada · Fundador i Constructor de Productes**
+**Enginyer de Sistemes · Consultor en Transformació Digital · Professional d’IA Aplicada i Automatització · Constructor de Productes · Enginyer orientat a Arquitectura · Fundador**
 
 🌐 **Idiomes:** [English](README.md) · [Español](README.es.md) · Català
 
-Soc enginyer de sistemes, consultor tecnològic i emprenedor, enfocat a convertir problemes empresarials en solucions digitals pràctiques i sostenibles.
+Dissenyo i implemento sistemes digitals pràctics combinant comprensió del negoci, arquitectura, enginyeria assistida per IA, automatització i tecnologia open source mantenible.
 
-Treballo principalment amb pimes i empreses en creixement, combinant comprensió de processos, sistemes empresarials, intel·ligència artificial aplicada, automatització, dades i enginyeria de productes digitals lleugers. El meu enfocament és pragmàtic: primer entendre l’operació, després dissenyar l’arquitectura adequada i finalment construir només allò que genera valor mesurable.
+La meva feina connecta operacions empresarials i lliurament de programari: entendre el problema real, dissenyar un sistema sostenible, construir la solució útil més petita, validar-la amb evidència i mantenir el criteri humà dins del procés.
 
-## 🎯 Què faig
+> **La IA és un accelerador d’enginyeria, no un substitut de l’arquitectura, les proves, la governança ni la responsabilitat.**
+
+## Què faig
 
 ### Transformació digital i sistemes empresarials
-
-Ajudo les organitzacions a millorar la seva operació mitjançant redisseny de processos, implementació d’ERP/CRM, integració de sistemes, quadres de comandament i fulls de ruta pràctics de transformació digital.
+Redisseny de processos, ERP/CRM, sistemes operatius de negoci, integracions i fulls de ruta pragmàtics per a pimes i organitzacions en creixement.
 
 ### IA aplicada i automatització
+Fluxos assistits per IA, agents, RAG/sistemes de coneixement i automatització amb n8n, amb límits explícits, verificació i revisió humana.
 
-Dissenyo fluxos assistits per IA, processos habilitats per agents, sistemes de coneixement i automatitzacions empresarials que redueixen la feina manual i milloren la presa de decisions sense substituir la governança, les proves ni el criteri humà.
+### Enginyeria de producte i programari
+SaaS lleugers, eines internes, productes web, fronteres d’integració i sistemes orientats a escenaris offline/edge, utilitzant desenvolupament a mida quan realment aporta avantatge.
 
-### Enginyeria de producte
+### Arquitectura i consultoria tècnica
+Límits de sistema, trade-offs, arquitectura de lliurament, Quality Gates, governança de repositoris i decisions tècniques sustentades per evidència.
 
-Dissenyo i construeixo productes digitals lleugers, plataformes white-label, sistemes offline-first i solucions empresarials reutilitzables, combinant desenvolupament a mida amb tecnologies open source madures quan té sentit.
+## Treball actual i seleccionat
 
-## 🧩 Ecosistema empresarial
+| Treball | Estat | Què demostra |
+|---|---|---|
+| **DCP Flow** | Actiu | Mètode de treball / engineering system de Digital Consulting Plus per al lliurament humà + IA, governança, Quality Gates i coneixement d’enginyeria reutilitzable. [Documentació pública](https://dcpflow.digitalconsultingplus.co/) |
+| **[Academic Colombia — APA 7](https://github.com/kike918/Academic-Colombia-APA-7)** | **Estable v1.0.0** | Framework declaratiu per a assistents d’IA amb 16 Skills natives, routing, QA, cadenes d’evidència, proves d’acceptació i distribució reproduïble. |
+| **[Architecture Case Studies](https://github.com/kike918/architecture-case-studies)** | Actiu / publicat | Treball d’arquitectura sanititzat i públic centrat en restriccions, decisions, trade-offs i evidència, no en diagrames sense context. |
+| **KIKE_OS** | Sistema intern actiu | Sistema personal i empresarial de coneixement i operació. No és un SaaS comercial; la memòria documental és operativa mentre el nucli tècnic complet continua evolucionant. |
+| **Rewi** | Producte actiu / línia pilot | SaaS de fidelització digital de Digital Consulting Plus. El core és privat; la línia actual té un release pilot V0.1.0 i treball V0.2 en curs. |
+| **MicroPOS** | Producte actiu | Treball de plataforma comercial/POS lleugera per a petits negocis, incloent lliurament Astro/PHP/SQLite i una línia d’arquitectura offline-first/edge. El core és privat. |
+| **FalconCDT B2B engagement** | Cas desplegat | Sistemes white-label d’engagement, pronòstics, rànquings i notificacions documentats mitjançant un cas públic sanititzat d’arquitectura. |
+| **Normia** | **Pausat / maintenance** | Baseline de producte per a compliment operatiu i auditabilitat en operacions d’aliments. El discovery i bootstrap tècnic es conserven, però el desenvolupament actiu està pausat. |
+| **[Trace Lab](https://github.com/kike918/Trace-Labs)** | Experimental | Laboratori públic per a traçabilitat, hashes, patrons Merkle i integració Web2 ↔ Web3. No és un producte acabat. |
 
-### Digital Consulting Plus
-Consultoria tecnològica i implementació enfocada en transformació digital, IA i automatització, ERP/CRM, programari a mida, integracions, analítica, infraestructura cloud i plataformes digitals.
+SipDolce / CoffeeTech continua com a espai complementari d’experimentació al voltant del cafè, la traçabilitat i petits productes digitals com Tazario. Aquestes iniciatives es presenten segons la seva maduresa real, sense convertir experiments en suposats productes acabats.
 
-### FalconCDT
-Iniciatives de producte digital i enginyeria de programari enfocades en aplicacions lleugeres, plataformes empresarials reutilitzables, solucions white-label i sistemes d’engagement B2B.
+## Repositoris públics — evidència seleccionada
 
-### Plus Smarty
-Iniciatives de contingut, aprenentatge i IA aplicada enfocades en transformació digital, educació tecnològica, podcasting i fluxos de treball intel·ligents.
+### [Academic-Colombia-APA-7](https://github.com/kike918/Academic-Colombia-APA-7)
+Framework estable v1.0.0 per a fluxos acadèmics assistits per IA, amb jerarquia d’autoritat explícita, mapatge d’evidència, gates de QA, perfils institucionals, adapters de plataforma i límits de validació empírica documentats.
 
-### SipDolce
-Ecosistema CoffeeTech que combina cafè d’especialitat, regals i experiències corporatives, experimentació, traçabilitat i tecnologia.
+### [architecture-case-studies](https://github.com/kike918/architecture-case-studies)
+Casos públics i sanititzats d’arquitectura sobre FalconCDT Engagement, DCP DownloadGate, MicroPOS i Normia. El repositori separa baselines arquitectònics de l’evidència productiva i documenta trade-offs de manera explícita.
 
-## 🔭 Línies actuals de producte
+### [Trace-Labs](https://github.com/kike918/Trace-Labs)
+Repositori deliberadament experimental per provar patrons de traçabilitat i integració blockchain abans de considerar-ne l’ús en sistemes productius.
 
-### Operacions empresarials
-- **Normia** — compliment operatiu, processos de seguretat alimentària, gestió de qualitat i accions correctives
-- **MicroPOS** — arquitectura POS lleugera per a petits negocis i entorns amb baixa connectivitat
+> Forks, mirrors i repositoris de tercers no es presenten aquí com a evidència de treball original.
 
-### Engagement i fidelització
-- **FalconCDT Engagement Platform** — plataforma B2B white-label d’engagement, pronòstics, rànquings i notificacions
-- **Rewards Platform** — plataforma independent de fidelització i recompenses per a petits negocis
-
-### Traçabilitat i confiança
-- **SipDolce Trace** — traçabilitat del cafè, registres basats en esdeveniments i arquitectura de confiança digital
-
-### IA i sistemes de coneixement
-- **KIKE_OS** — sistema operatiu personal i empresarial de coneixement que combina context estructurat, GitHub, eines d’IA i fluxos d’automatització
-
-## 🧪 Treball seleccionat
-
-- **Plataforma d’engagement B2B:** desplegaments white-label reals per a jocs de pronòstics, rànquings, notificacions i campanyes de marca
-- **Operacions de coneixement assistides per IA:** context estructurat, fluxos de revisió i patrons d’automatització per treballar amb múltiples eines d’IA sense perdre memòria operativa
-- **Sistemes empresarials offline-first:** arquitectura i disseny de producte per a eines lleugeres que funcionen amb connectivitat inestable o limitada
-- **Traçabilitat del cafè:** exploració de captura IoT, traçabilitat de lots i esdeveniments, i capes de confiança digital per a cadenes de valor del cafè
-- **Implementació de sistemes empresarials:** ERP/CRM, automatització, quadres de comandament i integracions orientades a millorar l’operació real
-
-## 🧠 Com treballo
+## Filosofia d’enginyeria
 
 ```text
-Problema de negoci
-        ↓
-Comprensió del procés
-        ↓
+Problema / Outcome
+      ↓
+Procés i restriccions
+      ↓
 Arquitectura
-        ↓
-Prototip
-        ↓
-Desenvolupament humà + IA
-        ↓
-Proves
-        ↓
-Validació en el món real
-        ↓
-Producte o servei reutilitzable
+      ↓
+Discovery
+      ↓
+Build
+      ↓
+Evidència / Quality Gates
+      ↓
+Revisió humana
+      ↓
+Aprenentatge
 ```
 
-**La IA és un accelerador d’enginyeria, no un substitut de l’arquitectura, les proves, la governança ni la responsabilitat.**
+Prefereixo sistemes previsibles i mantenibles abans que complexitat de moda. La IA pot accelerar discovery, implementació i revisió, però la responsabilitat d’enginyeria continua incloent límits clars, proves, seguretat, operabilitat i Human Gate quan el risc ho exigeix.
 
-## 🛠 Stack i eines
+## Tecnologia per capacitat
 
-**Sistemes empresarials:** Odoo · Dolibarr · ERPNext · CRM · BPM  
-**IA i automatització:** LLMs · Agents d’IA · n8n · RAG · Ollama · OpenAI · Claude · Gemini  
-**Programari i plataformes:** PHP · Python · JavaScript · TypeScript · Astro · WordPress · MySQL · PostgreSQL  
-**Infraestructura:** Google Cloud · Docker · Caddy · Linux · GitHub Actions  
-**IoT i edge:** Raspberry Pi · ESP32 · MQTT · InfluxDB · Grafana
+**Sistemes empresarials**  
+Odoo · ERPNext · CRM · BPM
 
-## 🌎 Perspectiva
+**IA i automatització**  
+LLMs · Agents d’IA · RAG · n8n · Gemini · OpenAI
 
-Treballo a la intersecció entre **tecnologia, operacions empresarials, intel·ligència artificial, open source i desenvolupament de producte**, amb experiència donant suport a projectes i clients a Colòmbia, els Estats Units i Espanya.
+**Enginyeria**  
+PHP · Laravel · Python · TypeScript / JavaScript · Astro
 
-El meu enfocament és simple:
+**Dades**  
+PostgreSQL · MySQL · SQLite
 
-> **La tecnologia ha de reduir fricció, crear claredat operativa i generar valor empresarial mesurable.**
+**Infraestructura**  
+Docker · GitHub Actions · Google Cloud · Linux · Caddy
 
-## ☕ Més enllà del codi
+**Edge / IoT**  
+Raspberry Pi · ESP32 · MQTT
 
-També soc podcaster, creador de contingut i emprenedor del món del cafè. M’interessa especialment la intersecció entre tecnologia, aprenentatge, transformació empresarial i innovació al voltant del cafè.
+La tecnologia se selecciona segons el problema i el context operatiu; aquesta llista és una caixa d’eines real, no un checklist que tots els projectes hagin d’utilitzar.
 
-## 📫 Contacte
+## Ecosistema empresarial
 
-**Digital Consulting Plus**  
-📧 ereasco@digitalconsultingplus.com
+- **Digital Consulting Plus** — consultoria tecnològica, implementació de sistemes, automatització i enginyeria de programari/producte.
+- **FalconCDT** — iniciatives de producte digital i enginyeria d’engagement B2B.
+- **Plus Smarty** — contingut tecnològic, aprenentatge i comunicació sobre IA aplicada.
+- **SipDolce** — negoci de cafè i experimentació CoffeeTech al voltant d’experiències, traçabilitat i productes digitals.
+
+Aquest ecosistema explica part del context en què construeixo; el perfil no pretén convertir cada unitat en un brochure independent.
+
+## Perspectiva internacional
+
+La meva feina professional i els meus projectes han connectat **Colòmbia, els Estats Units i Espanya**, aportant-me una visió pràctica del lliurament tecnològic en entorns empresarials diferents.
+
+## Més enllà de l’enginyeria
+
+També soc podcaster, creador de contingut i emprenedor del món del cafè. Aquesta barreja manté la meva feina tècnica connectada amb comunicació, operacions, experiència de client i restriccions reals de negoci.
+
+## Contacte
+
+**Enrique “Kike” Reasco Marines**  
+📧 ereasco@digitalconsultingplus.com  
+GitHub: [@kike918](https://github.com/kike918) · [Digital Consulting Plus](https://github.com/digitalconsultingplus)
