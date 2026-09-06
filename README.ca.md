@@ -1,6 +1,6 @@
 # Enrique “Kike” Reasco Marines
 
-**Enginyer de Sistemes · Consultor en Transformació Digital · Practicant d’IA / Automatització · Constructor de Productes · Enginyer orientat a Arquitectura · Fundador**
+**Enginyer de Sistemes · Consultor en Transformació Digital · Professional d’IA Aplicada i Automatització · Constructor de Productes · Enginyer orientat a Arquitectura · Fundador**
 
 🌐 **Idiomes:** [English](README.md) · [Español](README.es.md) · Català
 
