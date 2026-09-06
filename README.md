@@ -1,108 +1,121 @@
-# Enrique “Kike” Reasco Marines 👋
+# Enrique “Kike” Reasco Marines
 
-**Systems Engineer · Digital Transformation & Applied AI Consultant · Founder & Product Builder**
+**Systems Engineer · Digital Transformation Consultant · AI / Automation Practitioner · Product Builder · Architecture-oriented Engineer · Founder**
 
 🌐 **Languages:** English · [Español](README.es.md) · [Català](README.ca.md)
 
-I am a systems engineer, technology consultant and entrepreneur focused on turning business problems into practical, maintainable digital solutions.
+I design and implement practical digital systems by combining business understanding, architecture, AI-assisted engineering, automation and maintainable open-source technology.
 
-I work mainly with SMEs and growing companies, combining business process understanding, enterprise systems, applied AI, automation, data and lightweight product engineering. My approach is pragmatic: understand the operation first, design the right architecture second, and then build only what creates measurable value.
+My work sits between business operations and software delivery: understand the real problem, shape a maintainable system, build the smallest useful solution, validate it with evidence, and keep human judgment in the loop.
 
-## 🎯 What I do
+> **AI is an engineering accelerator — not a replacement for architecture, testing, governance or accountability.**
+
+## What I do
 
 ### Digital transformation & business systems
-
-I help organizations improve operations through process redesign, ERP/CRM implementation, systems integration, dashboards and practical digital transformation roadmaps.
+Process redesign, ERP/CRM, operational systems, integrations and pragmatic transformation roadmaps for SMEs and growing organizations.
 
 ### Applied AI & automation
+AI-assisted workflows, agents, RAG/knowledge systems and n8n-based automation with explicit boundaries, verification and human review.
 
-I design AI-assisted workflows, agent-enabled processes, knowledge systems and business automations that reduce manual work and improve decision-making without replacing governance, testing or human judgment.
+### Product & software engineering
+Lightweight SaaS, internal tools, web products, integration boundaries and offline/edge-oriented systems using custom development where it creates real leverage.
 
-### Product engineering
+### Architecture & technical consulting
+System boundaries, trade-offs, delivery architecture, quality gates, repository governance and evidence-driven technical decisions.
 
-I design and build lightweight digital products, white-label platforms, offline-first systems and reusable business solutions, often combining custom development with mature open-source technologies.
+## Current & selected work
 
-## 🧩 Business ecosystem
+| Work | Status | What it demonstrates |
+|---|---|---|
+| **DCP Flow** | Active | Digital Consulting Plus working method / engineering system for human + AI delivery, governance, quality gates and reusable engineering knowledge. [Public documentation](https://dcpflow.digitalconsultingplus.co/) |
+| **[Academic Colombia — APA 7](https://github.com/kike918/Academic-Colombia-APA-7)** | **Stable v1.0.0** | Declarative AI-assistant framework with 16 native Skills, routing, QA, evidence chains, acceptance tests and reproducible distribution. |
+| **[Architecture Case Studies](https://github.com/kike918/architecture-case-studies)** | Active / published | Sanitized architecture work focused on constraints, decisions, trade-offs and evidence rather than diagrams without context. |
+| **KIKE_OS** | Active internal system | Personal and business knowledge/operations system. It is not a commercial SaaS; the documentary memory is operational while the complete technical core is still evolving. |
+| **Rewi** | Active product / pilot line | Digital loyalty SaaS from Digital Consulting Plus. Core implementation is private; the current product line has a V0.1.0 pilot release and ongoing V0.2 work. |
+| **MicroPOS** | Active product | Lightweight small-business POS/commercial platform work, including Astro/PHP/SQLite delivery and an offline-first/edge architecture track. Core implementation is private. |
+| **FalconCDT B2B engagement** | Deployed case | White-label engagement, prediction, ranking and notification systems documented through a public sanitized architecture case. |
+| **Normia** | **Paused / maintenance** | Food-operations compliance and auditability product baseline. Technical discovery and bootstrap are preserved, but active development is paused. |
+| **[Trace Lab](https://github.com/kike918/Trace-Labs)** | Experimental | Public lab for traceability, hashes, Merkle patterns and Web2 ↔ Web3 experiments. Not a finished product. |
 
-### Digital Consulting Plus
-Technology consulting and implementation focused on digital transformation, AI and automation, ERP/CRM, custom software, integrations, analytics, cloud infrastructure and digital platforms.
+SipDolce / CoffeeTech remains a complementary experimentation space around coffee, traceability and small digital products such as Tazario; I treat those initiatives according to their actual maturity rather than presenting experiments as finished platforms.
 
-### FalconCDT
-Digital product and software engineering initiatives focused on lightweight applications, reusable business platforms, white-label solutions and B2B engagement systems.
+## Public repositories — selected evidence
 
-### Plus Smarty
-Content, learning and applied-AI initiatives focused on digital transformation, technology education, podcasting and intelligent workflows.
+### [Academic-Colombia-APA-7](https://github.com/kike918/Academic-Colombia-APA-7)
+A stable v1.0.0 framework for academic AI workflows with explicit authority hierarchy, evidence mapping, QA gates, institutional profiles, platform adapters and empirical validation boundaries.
 
-### SipDolce
-A CoffeeTech business ecosystem combining specialty coffee, corporate gifts and experiences, experimentation, traceability and technology.
+### [architecture-case-studies](https://github.com/kike918/architecture-case-studies)
+Public, sanitized architecture cases covering FalconCDT engagement, DCP DownloadGate, MicroPOS and Normia. The repository separates architecture baselines from production evidence and documents trade-offs explicitly.
 
-## 🔭 Current product tracks
+### [Trace-Labs](https://github.com/kike918/Trace-Labs)
+An intentionally experimental repository for testing traceability and blockchain-integration patterns before considering them for production systems.
 
-### Business operations
-- **Normia** — operational compliance, food-safety processes, quality management and corrective-action workflows
-- **MicroPOS** — lightweight POS architecture for small businesses and low-connectivity environments
+> Forks, mirrors and third-party repositories are not presented here as evidence of original work.
 
-### Engagement & loyalty
-- **FalconCDT Engagement Platform** — white-label B2B engagement, prediction, ranking and notification platform
-- **Rewards Platform** — independent loyalty and customer rewards platform for small businesses
-
-### Traceability & trust
-- **SipDolce Trace** — coffee traceability, event-based records and digital trust architecture
-
-### AI & knowledge systems
-- **KIKE_OS** — personal and business knowledge operating system combining structured context, GitHub, AI tools and automation workflows
-
-## 🧪 Selected work
-
-- **B2B engagement platform:** real-world white-label deployments for prediction games, rankings, notifications and branded campaigns
-- **AI-assisted knowledge operations:** structured context, review workflows and automation patterns for working across multiple AI tools without losing operational memory
-- **Offline-first business systems:** architecture and product design for lightweight tools operating under unreliable or limited connectivity
-- **Coffee traceability:** exploration of IoT data capture, lot/event traceability and digital trust layers for coffee value chains
-- **Business systems delivery:** ERP/CRM, automation, dashboards and integrations for practical operational improvement
-
-## 🧠 How I work
+## Engineering philosophy
 
 ```text
-Business problem
-        ↓
-Process understanding
-        ↓
+Problem / Outcome
+      ↓
+Process & Constraints
+      ↓
 Architecture
-        ↓
-Prototype
-        ↓
-Human + AI-assisted development
-        ↓
-Testing
-        ↓
-Real-world validation
-        ↓
-Reusable product or service
+      ↓
+Discovery
+      ↓
+Build
+      ↓
+Evidence / Quality Gates
+      ↓
+Human Review
+      ↓
+Learning
 ```
 
-**AI is an engineering accelerator, not a substitute for architecture, testing, governance or accountability.**
+I prefer boring, maintainable systems over fashionable complexity. AI can speed up discovery, implementation and review, but the engineering responsibility still includes clear boundaries, tests, security, operability and a human acceptance gate where risk requires it.
 
-## 🛠 Technology toolkit
+## Technology by capability
 
-**Business systems:** Odoo · Dolibarr · ERPNext · CRM · BPM  
-**AI & automation:** LLMs · AI Agents · n8n · RAG · Ollama · OpenAI · Claude · Gemini  
-**Software & platforms:** PHP · Python · JavaScript · TypeScript · Astro · WordPress · MySQL · PostgreSQL  
-**Infrastructure:** Google Cloud · Docker · Caddy · Linux · GitHub Actions  
-**IoT & edge:** Raspberry Pi · ESP32 · MQTT · InfluxDB · Grafana
+**Business systems**  
+Odoo · ERPNext · CRM · BPM
 
-## 🌎 Perspective
+**AI & automation**  
+LLMs · AI Agents · RAG · n8n · Gemini · OpenAI
 
-I work at the intersection of **technology, business operations, artificial intelligence, open source and product development**, with experience supporting projects and clients across Colombia, the United States and Spain.
+**Engineering**  
+PHP · Laravel · Python · TypeScript / JavaScript · Astro
 
-My focus is simple:
+**Data**  
+PostgreSQL · MySQL · SQLite
 
-> **Technology should reduce friction, create operational clarity and generate measurable business value.**
+**Infrastructure**  
+Docker · GitHub Actions · Google Cloud · Linux · Caddy
 
-## ☕ Beyond code
+**Edge / IoT**  
+Raspberry Pi · ESP32 · MQTT
 
-I am also a podcaster, content creator and coffee entrepreneur. I am especially interested in the intersection between technology, learning, business transformation and coffee innovation.
+Technology is selected for the problem and operating context; the list is a working toolkit, not a checklist that every project must use.
 
-## 📫 Contact
+## Business ecosystem
 
-**Digital Consulting Plus**  
-📧 ereasco@digitalconsultingplus.com
+- **Digital Consulting Plus** — technology consulting, systems implementation, automation and software/product engineering.
+- **FalconCDT** — digital product and B2B engagement engineering initiatives.
+- **Plus Smarty** — technology content, learning and applied-AI communication.
+- **SipDolce** — coffee business and CoffeeTech experimentation around experiences, traceability and digital products.
+
+These are part of the context in which I build, not four separate brochures inside this profile.
+
+## International perspective
+
+My professional work and projects have connected **Colombia, the United States and Spain**, giving me a practical view of technology delivery across different business environments.
+
+## Beyond engineering
+
+I am also a podcaster, content creator and coffee entrepreneur. That mix keeps my technical work grounded in communication, operations, customer experience and real-world business constraints.
+
+## Contact
+
+**Enrique “Kike” Reasco Marines**  
+📧 ereasco@digitalconsultingplus.com  
+GitHub: [@kike918](https://github.com/kike918) · [Digital Consulting Plus](https://github.com/digitalconsultingplus)
