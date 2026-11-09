@@ -47,7 +47,7 @@ SipDolce / CoffeeTech includes Tazario Recipes, an active engineering project th
 A stable v1.0.0 framework for academic AI workflows with explicit authority hierarchy, evidence mapping, QA gates, institutional profiles, platform adapters and empirical validation boundaries.
 
 ### [architecture-case-studies](https://github.com/kike918/architecture-case-studies)
-Public, sanitized architecture cases covering FalconCDT engagement, DCP DownloadGate, MicroPOS, Normia, Tazario Recipes, Rewi and the DCP Flow methodology. The repository separates architecture baselines from production evidence and documents trade-offs explicitly.
+Public, sanitized architecture cases covering FalconCDT engagement, DCP DownloadGate, MicroPOS, Normia, Tazario Recipes, Rewi, SipDolce Labs and the DCP Flow methodology. The repository separates architecture baselines from production evidence and documents trade-offs explicitly.
 
 ### [Trace-Labs](https://github.com/kike918/Trace-Labs)
 An intentionally experimental repository for testing traceability and blockchain-integration patterns before considering them for production systems.
