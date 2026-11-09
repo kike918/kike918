@@ -32,7 +32,7 @@ Límits de sistema, trade-offs, arquitectura de lliurament, Quality Gates, gover
 | **[Academic Colombia — APA 7](https://github.com/kike918/Academic-Colombia-APA-7)** | **Estable v1.0.0** | Framework declaratiu per a assistents d’IA amb 16 Skills natives, routing, QA, cadenes d’evidència, proves d’acceptació i distribució reproduïble. |
 | **[Architecture Case Studies](https://github.com/kike918/architecture-case-studies)** | Actiu / publicat | Treball d’arquitectura sanititzat i públic centrat en restriccions, decisions, trade-offs i evidència, no en diagrames sense context. |
 | **KIKE_OS** | Sistema intern actiu | Sistema personal i empresarial de coneixement i operació. No és un SaaS comercial; la memòria documental és operativa mentre el nucli tècnic complet continua evolucionant. |
-| **Rewi** | Producte SaaS actiu | Plataforma de fidelització digital. La implementació és privada; l'historial de versions i l'estat actual de desplegament/QA es verifiquen al repositori del producte i no es pressuposen des d'aquest perfil. |
+| **Rewi** | v0.2.1 desplegat (2026-11-03); validació sostinguda pendent | SaaS privat de fidelització amb integracions per negoci, comunicacions en cues i evidència documentada de release. [Cas públic d'arquitectura](https://github.com/kike918/architecture-case-studies/tree/main/cases/rewi). |
 | **Tazario Recipes by SipDolce** | Preparat per al desplegament a GCP; pendent de verificació en producció | Plataforma CoffeeTech privada amb React/TypeScript, Hono, PostgreSQL i Drizzle. Documentats el desplegament en contenidors i l'estratègia de restauració; es preserven l'atribució MIT de l'upstream i la governança DCP Flow. |
 | **MicroPOS** | Producte actiu | Treball de plataforma comercial/POS lleugera per a petits negocis, incloent lliurament Astro/PHP/SQLite i una línia d’arquitectura offline-first/edge. El core és privat. |
 | **FalconCDT B2B engagement** | Cas desplegat | Sistemes white-label d’engagement, pronòstics, rànquings i notificacions documentats mitjançant un cas públic sanititzat d’arquitectura. |
@@ -47,7 +47,7 @@ SipDolce / CoffeeTech inclou Tazario Recipes, un projecte d'enginyeria actiu que
 Framework estable v1.0.0 per a fluxos acadèmics assistits per IA, amb jerarquia d’autoritat explícita, mapatge d’evidència, gates de QA, perfils institucionals, adapters de plataforma i límits de validació empírica documentats.
 
 ### [architecture-case-studies](https://github.com/kike918/architecture-case-studies)
-Casos públics i sanititzats d’arquitectura sobre FalconCDT Engagement, DCP DownloadGate, MicroPOS i Normia. El repositori separa baselines arquitectònics de l’evidència productiva i documenta trade-offs de manera explícita.
+Casos públics i sanititzats d’arquitectura sobre FalconCDT Engagement, DCP DownloadGate, MicroPOS, Normia, Tazario Recipes i Rewi. El repositori separa baselines arquitectònics de l’evidència productiva i documenta trade-offs de manera explícita.
 
 ### [Trace-Labs](https://github.com/kike918/Trace-Labs)
 Repositori deliberadament experimental per provar patrons de traçabilitat i integració blockchain abans de considerar-ne l’ús en sistemes productius.
