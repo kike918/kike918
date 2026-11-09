@@ -47,7 +47,7 @@ SipDolce / CoffeeTech inclou Tazario Recipes, un projecte d'enginyeria actiu que
 Framework estable v1.0.0 per a fluxos acadèmics assistits per IA, amb jerarquia d’autoritat explícita, mapatge d’evidència, gates de QA, perfils institucionals, adapters de plataforma i límits de validació empírica documentats.
 
 ### [architecture-case-studies](https://github.com/kike918/architecture-case-studies)
-Casos públics i sanititzats d’arquitectura sobre FalconCDT Engagement, DCP DownloadGate, MicroPOS, Normia, Tazario Recipes, Rewi i la metodologia DCP Flow. El repositori separa baselines arquitectònics de l’evidència productiva i documenta trade-offs de manera explícita.
+Casos públics i sanititzats d’arquitectura sobre FalconCDT Engagement, DCP DownloadGate, MicroPOS, Normia, Tazario Recipes, Rewi, SipDolce Labs i la metodologia DCP Flow. El repositori separa baselines arquitectònics de l’evidència productiva i documenta trade-offs de manera explícita.
 
 ### [Trace-Labs](https://github.com/kike918/Trace-Labs)
 Repositori deliberadament experimental per provar patrons de traçabilitat i integració blockchain abans de considerar-ne l’ús en sistemes productius.
