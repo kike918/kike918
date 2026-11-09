@@ -28,7 +28,7 @@ Límits de sistema, trade-offs, arquitectura de lliurament, Quality Gates, gover
 
 | Treball | Estat | Què demostra |
 |---|---|---|
-| **DCP Flow** | Actiu | Mètode de treball / engineering system de Digital Consulting Plus per al lliurament humà + IA, governança, Quality Gates i coneixement d’enginyeria reutilitzable. [Documentació pública](https://dcpflow.digitalconsultingplus.co/) |
+| **DCP Flow** | Metodologia activa; aplicació documentada | Mètode humà + IA de Digital Consulting Plus: blueprints contextuals, discovery de solucions, Quality Gates i coneixement reutilitzable. [Documentació pública](https://dcpflow.digitalconsultingplus.co/) · [Cas d'arquitectura](https://github.com/kike918/architecture-case-studies/tree/main/cases/dcp-flow) |
 | **[Academic Colombia — APA 7](https://github.com/kike918/Academic-Colombia-APA-7)** | **Estable v1.0.0** | Framework declaratiu per a assistents d’IA amb 16 Skills natives, routing, QA, cadenes d’evidència, proves d’acceptació i distribució reproduïble. |
 | **[Architecture Case Studies](https://github.com/kike918/architecture-case-studies)** | Actiu / publicat | Treball d’arquitectura sanititzat i públic centrat en restriccions, decisions, trade-offs i evidència, no en diagrames sense context. |
 | **KIKE_OS** | Sistema intern actiu | Sistema personal i empresarial de coneixement i operació. No és un SaaS comercial; la memòria documental és operativa mentre el nucli tècnic complet continua evolucionant. |
@@ -47,7 +47,7 @@ SipDolce / CoffeeTech inclou Tazario Recipes, un projecte d'enginyeria actiu que
 Framework estable v1.0.0 per a fluxos acadèmics assistits per IA, amb jerarquia d’autoritat explícita, mapatge d’evidència, gates de QA, perfils institucionals, adapters de plataforma i límits de validació empírica documentats.
 
 ### [architecture-case-studies](https://github.com/kike918/architecture-case-studies)
-Casos públics i sanititzats d’arquitectura sobre FalconCDT Engagement, DCP DownloadGate, MicroPOS, Normia, Tazario Recipes i Rewi. El repositori separa baselines arquitectònics de l’evidència productiva i documenta trade-offs de manera explícita.
+Casos públics i sanititzats d’arquitectura sobre FalconCDT Engagement, DCP DownloadGate, MicroPOS, Normia, Tazario Recipes, Rewi i la metodologia DCP Flow. El repositori separa baselines arquitectònics de l’evidència productiva i documenta trade-offs de manera explícita.
 
 ### [Trace-Labs](https://github.com/kike918/Trace-Labs)
 Repositori deliberadament experimental per provar patrons de traçabilitat i integració blockchain abans de considerar-ne l’ús en sistemes productius.
