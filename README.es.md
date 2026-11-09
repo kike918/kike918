@@ -32,13 +32,14 @@ Límites de sistema, trade-offs, arquitectura de entrega, Quality Gates, gobiern
 | **[Academic Colombia — APA 7](https://github.com/kike918/Academic-Colombia-APA-7)** | **Estable v1.0.0** | Framework declarativo para asistentes de IA con 16 Skills nativas, routing, QA, cadenas de evidencia, pruebas de aceptación y distribución reproducible. |
 | **[Architecture Case Studies](https://github.com/kike918/architecture-case-studies)** | Activo / publicado | Trabajo de arquitectura sanitizado y público enfocado en restricciones, decisiones, trade-offs y evidencia, no en diagramas sin contexto. |
 | **KIKE_OS** | Sistema interno activo | Sistema personal y empresarial de conocimiento y operación. No es un SaaS comercial; la memoria documental está operativa mientras el núcleo técnico completo sigue evolucionando. |
-| **Rewi** | Producto activo / línea piloto | SaaS de fidelización digital de Digital Consulting Plus. El core es privado; la línea actual cuenta con release piloto V0.1.0 y trabajo V0.2 en curso. |
+| **Rewi** | Producto SaaS activo | Plataforma de fidelización digital. La implementación es privada; el historial de releases y el estado actual de despliegue/QA se verifican en el repositorio del producto y no se presuponen desde este perfil. |
+| **Tazario Recipes by SipDolce** | Proyecto de ingeniería activo; implementación privada | Plataforma CoffeeTech de recetas y equipos: frontend React/TypeScript, API Hono, PostgreSQL y Drizzle; separación de upstream, licencias y QA. |
 | **MicroPOS** | Producto activo | Trabajo de plataforma comercial/POS ligera para pequeños negocios, incluyendo entrega Astro/PHP/SQLite y una línea de arquitectura offline-first/edge. El core es privado. |
 | **FalconCDT B2B engagement** | Caso desplegado | Sistemas white-label de engagement, pronósticos, rankings y notificaciones documentados mediante un caso público sanitizado de arquitectura. |
 | **Normia** | **Pausado / maintenance** | Baseline de producto para cumplimiento operativo y auditabilidad en operaciones de alimentos. El discovery y bootstrap técnico se conservan, pero el desarrollo activo está pausado. |
 | **[Trace Lab](https://github.com/kike918/Trace-Labs)** | Experimental | Laboratorio público para trazabilidad, hashes, patrones Merkle e integración Web2 ↔ Web3. No es un producto terminado. |
 
-SipDolce / CoffeeTech continúa como espacio complementario de experimentación alrededor del café, la trazabilidad y pequeños productos digitales como Tazario. Esas iniciativas se presentan según su madurez real, sin convertir experimentos en supuestos productos terminados.
+SipDolce / CoffeeTech incluye Tazario Recipes, un proyecto de ingeniería activo que conecta conocimiento del café de especialidad con una plataforma TypeScript privada. Este perfil distingue desarrollo activo de validación productiva.
 
 ## Repositorios públicos — evidencia seleccionada
 
@@ -84,7 +85,7 @@ Odoo · ERPNext · CRM · BPM
 LLMs · Agentes de IA · RAG · n8n · Gemini · OpenAI
 
 **Ingeniería**  
-PHP · Laravel · Python · TypeScript / JavaScript · Astro
+PHP · Laravel · Livewire · Python · TypeScript / JavaScript · React · Astro · Node.js · Hono · Zod · Drizzle
 
 **Datos**  
 PostgreSQL · MySQL · SQLite
