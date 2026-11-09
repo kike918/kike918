@@ -28,7 +28,7 @@ System boundaries, trade-offs, delivery architecture, quality gates, repository 
 
 | Work | Status | What it demonstrates |
 |---|---|---|
-| **DCP Flow** | Active | Digital Consulting Plus working method / engineering system for human + AI delivery, governance, quality gates and reusable engineering knowledge. [Public documentation](https://dcpflow.digitalconsultingplus.co/) |
+| **DCP Flow** | Active methodology; documented application | Digital Consulting Plus human + AI engineering method, contextual blueprints, solution discovery, quality gates and reusable knowledge. [Public documentation](https://dcpflow.digitalconsultingplus.co/) · [Architecture case](https://github.com/kike918/architecture-case-studies/tree/main/cases/dcp-flow) |
 | **[Academic Colombia — APA 7](https://github.com/kike918/Academic-Colombia-APA-7)** | **Stable v1.0.0** | Declarative AI-assistant framework with 16 native Skills, routing, QA, evidence chains, acceptance tests and reproducible distribution. |
 | **[Architecture Case Studies](https://github.com/kike918/architecture-case-studies)** | Active / published | Sanitized architecture work focused on constraints, decisions, trade-offs and evidence rather than diagrams without context. |
 | **KIKE_OS** | Active internal system | Personal and business knowledge/operations system. It is not a commercial SaaS; the documentary memory is operational while the complete technical core is still evolving. |
@@ -47,7 +47,7 @@ SipDolce / CoffeeTech includes Tazario Recipes, an active engineering project th
 A stable v1.0.0 framework for academic AI workflows with explicit authority hierarchy, evidence mapping, QA gates, institutional profiles, platform adapters and empirical validation boundaries.
 
 ### [architecture-case-studies](https://github.com/kike918/architecture-case-studies)
-Public, sanitized architecture cases covering FalconCDT engagement, DCP DownloadGate, MicroPOS, Normia, Tazario Recipes and Rewi. The repository separates architecture baselines from production evidence and documents trade-offs explicitly.
+Public, sanitized architecture cases covering FalconCDT engagement, DCP DownloadGate, MicroPOS, Normia, Tazario Recipes, Rewi and the DCP Flow methodology. The repository separates architecture baselines from production evidence and documents trade-offs explicitly.
 
 ### [Trace-Labs](https://github.com/kike918/Trace-Labs)
 An intentionally experimental repository for testing traceability and blockchain-integration patterns before considering them for production systems.
