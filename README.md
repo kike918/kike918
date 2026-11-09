@@ -32,7 +32,7 @@ System boundaries, trade-offs, delivery architecture, quality gates, repository 
 | **[Academic Colombia — APA 7](https://github.com/kike918/Academic-Colombia-APA-7)** | **Stable v1.0.0** | Declarative AI-assistant framework with 16 native Skills, routing, QA, evidence chains, acceptance tests and reproducible distribution. |
 | **[Architecture Case Studies](https://github.com/kike918/architecture-case-studies)** | Active / published | Sanitized architecture work focused on constraints, decisions, trade-offs and evidence rather than diagrams without context. |
 | **KIKE_OS** | Active internal system | Personal and business knowledge/operations system. It is not a commercial SaaS; the documentary memory is operational while the complete technical core is still evolving. |
-| **Rewi** | Active SaaS product | Digital loyalty platform. The implementation is private; release history and current deployment/QA status are tracked in the product repository rather than claimed from this public profile. |
+| **Rewi** | Deployed v0.2.1 (2026-11-03); sustained validation pending | Private digital loyalty SaaS with business-scoped integrations, queued communications and documented release evidence. [Public architecture case](https://github.com/kike918/architecture-case-studies/tree/main/cases/rewi). |
 | **Tazario Recipes by SipDolce** | GCP deployment prepared; production verification pending | Private CoffeeTech platform with React/TypeScript, Hono, PostgreSQL and Drizzle. Containerized deployment guide and data-restoration strategy are documented; upstream MIT attribution and DCP Flow governance are preserved. |
 | **MicroPOS** | Active product | Lightweight small-business POS/commercial platform work, including Astro/PHP/SQLite delivery and an offline-first/edge architecture track. Core implementation is private. |
 | **FalconCDT B2B engagement** | Deployed case | White-label engagement, prediction, ranking and notification systems documented through a public sanitized architecture case. |
@@ -47,7 +47,7 @@ SipDolce / CoffeeTech includes Tazario Recipes, an active engineering project th
 A stable v1.0.0 framework for academic AI workflows with explicit authority hierarchy, evidence mapping, QA gates, institutional profiles, platform adapters and empirical validation boundaries.
 
 ### [architecture-case-studies](https://github.com/kike918/architecture-case-studies)
-Public, sanitized architecture cases covering FalconCDT engagement, DCP DownloadGate, MicroPOS and Normia. The repository separates architecture baselines from production evidence and documents trade-offs explicitly.
+Public, sanitized architecture cases covering FalconCDT engagement, DCP DownloadGate, MicroPOS, Normia, Tazario Recipes and Rewi. The repository separates architecture baselines from production evidence and documents trade-offs explicitly.
 
 ### [Trace-Labs](https://github.com/kike918/Trace-Labs)
 An intentionally experimental repository for testing traceability and blockchain-integration patterns before considering them for production systems.
